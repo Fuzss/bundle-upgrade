@@ -46,7 +46,7 @@
     "links": [
         {
             "name": "github",
-            "slug": "example-mod"
+            "slug": "bundle-upgrade"
         }
     ],
     "environments": {
