@@ -6,33 +6,6 @@
 | --- | --- | --- |
 | [26.1.x](https://github.com/Fuzss/bundle-upgrade/tree/26.1.x) | ✅&nbsp;Primary | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/26.1.x/CHANGELOG.md) |
 
-### Minecraft 1.21.x
-
-| Branch | Status | Changelog |
-| --- | --- | --- |
-| [1.21.11](https://github.com/Fuzss/bundle-upgrade/tree/1.21.11) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.21.11/CHANGELOG.md) |
-| [1.21.1](https://github.com/Fuzss/bundle-upgrade/tree/1.21.1) | ✅&nbsp;Maintained | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.21.1/CHANGELOG.md) |
-
-### Minecraft 1.20.x
-
-| Branch | Status | Changelog | Downloads |
-| --- | --- | --- | --- |
-| [1.20.0](https://github.com/Fuzss/bundle-upgrade/tree/1.20.0) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.20.0/CHANGELOG.md) | <img src="https://cdn.simpleicons.org/curseforge" width="14" />&nbsp;[CurseForge](https://www.curseforge.com/members/fuzs_/projects)<br /><img src="https://cdn.simpleicons.org/modrinth" width="14" />&nbsp;[Modrinth](https://modrinth.com/user/Fuzs) |
-
-### Minecraft 1.19.x
-
-| Branch | Status | Changelog | Downloads |
-| --- | --- | --- | --- |
-| [1.19.4](https://github.com/Fuzss/bundle-upgrade/tree/1.19.4) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.19.4/CHANGELOG.md) | <img src="https://cdn.simpleicons.org/curseforge" width="14" />&nbsp;[CurseForge](https://www.curseforge.com/members/fuzs_/projects)<br /><img src="https://cdn.simpleicons.org/modrinth" width="14" />&nbsp;[Modrinth](https://modrinth.com/user/Fuzs) |
-| [1.19.3](https://github.com/Fuzss/bundle-upgrade/tree/1.19.3) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.19.3/CHANGELOG.md) | <img src="https://cdn.simpleicons.org/curseforge" width="14" />&nbsp;[CurseForge](https://www.curseforge.com/members/fuzs_/projects)<br /><img src="https://cdn.simpleicons.org/modrinth" width="14" />&nbsp;[Modrinth](https://modrinth.com/user/Fuzs) |
-| [1.19.2](https://github.com/Fuzss/bundle-upgrade/tree/1.19.2) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.19.2/CHANGELOG.md) | <img src="https://cdn.simpleicons.org/curseforge" width="14" />&nbsp;[CurseForge](https://www.curseforge.com/members/fuzs_/projects)<br /><img src="https://cdn.simpleicons.org/modrinth" width="14" />&nbsp;[Modrinth](https://modrinth.com/user/Fuzs) |
-
-### Minecraft 1.18.x
-
-| Branch | Status | Changelog | Downloads |
-| --- | --- | --- | --- |
-| [1.18.2](https://github.com/Fuzss/bundle-upgrade/tree/1.18.2) | ❌&nbsp;Archived | [CHANGELOG.md](https://github.com/Fuzss/bundle-upgrade/blob/1.18.2/CHANGELOG.md) | <img src="https://cdn.simpleicons.org/curseforge" width="14" />&nbsp;[CurseForge](https://www.curseforge.com/members/fuzs_/projects)<br /><img src="https://cdn.simpleicons.org/modrinth" width="14" />&nbsp;[Modrinth](https://modrinth.com/user/Fuzs) |
-
 ---
 
 **✅&nbsp;Primary** — Latest version with active development and new features
