@@ -5,4 +5,6 @@ plugins {
 dependencies {
     modApi(sharedLibs.fabricapi.fabric)
     modApi(sharedLibs.puzzleslib.fabric)
+    modApi(sharedLibs.iteminteractions.fabric)
+    include(sharedLibs.iteminteractions.fabric)
 }

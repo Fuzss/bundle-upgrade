@@ -1,9 +1,9 @@
 {
   "pack": {
-    "description": "Resources for Example Mod",
-    "max_format": 94,
+    "description": "Resources for Bundle Upgrade",
+    "max_format": 101,
     "min_format": [
-      94,
+      101,
       1
     ]
   }

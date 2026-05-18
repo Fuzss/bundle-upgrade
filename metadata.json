@@ -1,9 +1,9 @@
 {
     "minecraft": "26.1.2",
     "mod": {
-        "id": "examplemod",
-        "group": "fuzs.examplemod",
-        "name": "Example Mod",
+        "id": "bundleupgrade",
+        "group": "fuzs.bundleupgrade",
+        "name": "Bundle Upgrade",
         "version": "26.1.0",
         "authors": [
             "Fuzs"
@@ -12,6 +12,14 @@
         "license": "MPL-2.0"
     },
     "dependencies": [
+        {
+            "name": "iteminteractions",
+            "type": "embedded",
+            "platforms": [
+                "fabric",
+                "neoforge"
+            ]
+        },
         {
             "name": "fabricapi",
             "type": "required",
