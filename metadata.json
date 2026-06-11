@@ -8,7 +8,7 @@
         "authors": [
             "Fuzs"
         ],
-        "description": "Example description.",
+        "description": "Unlock the full potential of bundles with powerful inventory interactions and navigation.",
         "license": "MPL-2.0"
     },
     "dependencies": [
@@ -45,8 +45,18 @@
     ],
     "links": [
         {
+            "name": "curseforge",
+            "slug": "bundle-upgrade",
+            "id": "1571801"
+        },
+        {
             "name": "github",
             "slug": "bundle-upgrade"
+        },
+        {
+            "name": "modrinth",
+            "slug": "bundle-upgrade",
+            "id": "4GmQWkZz"
         }
     ],
     "environments": {
