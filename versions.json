@@ -3,11 +3,17 @@
     "26.1.x": "maintained",
     "26.2.x": "primary"
   },
-  "properties": {
-    "distributions.curseforge.id": "1571801",
-    "distributions.curseforge.slug": "bundle-upgrade",
-    "distributions.github.slug": "bundle-upgrade",
-    "distributions.modrinth.id": "4GmQWkZz",
-    "distributions.modrinth.slug": "bundle-upgrade"
+  "distributions": {
+    "curseforge": {
+      "id": "1571801",
+      "slug": "bundle-upgrade"
+    },
+    "github": {
+      "slug": "bundle-upgrade"
+    },
+    "modrinth": {
+      "id": "4GmQWkZz",
+      "slug": "bundle-upgrade"
+    }
   }
 }
