@@ -4,7 +4,7 @@
         "id": "bundleupgrade",
         "group": "fuzs.bundleupgrade",
         "name": "Bundle Upgrade",
-        "version": "26.3.2",
+        "version": "26.3.3",
         "authors": [
             "Fuzs"
         ],
